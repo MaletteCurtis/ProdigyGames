@@ -1,0 +1,6 @@
+[{ "id" : 1, "likes": [] },
+{"id": 2, "likes": ["Peter"]},
+{"id": 3, "likes": ["John", "Mark"]},
+{"id": 4, "likes": ["Paul", "Lilly", "Alex"]},
+{"id": 5, "likes": ["Sarah", "Michelle", "Alex", "John"]}]
+
